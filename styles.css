@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 5px;
+    background-color: #000000;
+    font-family: sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
+
+.row {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 5px;
+}
+
+.prgh {
+    border: 1px solid #ffffff;
+    padding: 10px;
+}
+p {
+    color: #f1f1f1;
+    font-size: 20px;
+}
+
+@media screen and (max-width: 900px) {
+    .row {
+        grid-template-columns: repeat(4, 100px);
+    }
+    body {
+        padding: 0px;
+    }
+    p {
+        font-size: 14px;
+    }
+}

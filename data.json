@@ -1,0 +1,538 @@
+[
+  {
+    "__EMPTY": "Nom de la société",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "Domaine d'activité",
+    "__EMPTY_1": "Ville",
+    "__EMPTY_2": "Adresse",
+    "__EMPTY_3": "Tél.",
+    "__EMPTY_4": "Tuteur de stage"
+  },
+  {
+    "__EMPTY": "INZA",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "AGRICULTURE ",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "CENTRE RÉGIONALE TADLA",
+    "__EMPTY_3": "0523-44-00-06/83",
+    "__EMPTY_4": "BADER BENJELOUN"
+  },
+  {
+    "__EMPTY": "SGGI",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "GESTION DE SERVICES INFORMATIQUE",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "-",
+    "__EMPTY_3": "0524-35-52-52",
+    "__EMPTY_4": "KABAJ ABDELHALIM"
+  },
+  {
+    "__EMPTY": "JCW",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "AGENCE DE COMMUNICATION",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "-",
+    "__EMPTY_3": "0658-67-22-74",
+    "__EMPTY_4": "LAAKILA SAID "
+  },
+  {
+    "__EMPTY": "JCW",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "AGENCE DE COMMUNICATION",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "-",
+    "__EMPTY_3": "0658-67-22-74",
+    "__EMPTY_4": "LAAKILA SAID "
+  },
+  {
+    "__EMPTY": "TULIP COMMERCE",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "SERVICE WEB",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "-",
+    "__EMPTY_3": "0670-34-36-39",
+    "__EMPTY_4": "MUSTAPHA KHALIS "
+  },
+  {
+    "__EMPTY": "AMAZON PLAST",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "FABRICATION PLASTIQUE",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "SIDI GHANEM",
+    "__EMPTY_3": "0524-33-52-30",
+    "__EMPTY_4": "SOUAD "
+  },
+  {
+    "__EMPTY": "AMAZON PLAST",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "FABRICATION PLASTIQUE",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "SIDI GHANEM",
+    "__EMPTY_3": "0524-33-52-30",
+    "__EMPTY_4": "SOUAD "
+  },
+  {
+    "__EMPTY": "HIZAM IMMO EVENT ",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "IMMOBILIER",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "DERB MAKINA 2 ETAGE APP 5 MARRAKECH",
+    "__EMPTY_3": "0524-34-38-80",
+    "__EMPTY_4": "SALINE HASSANE "
+  },
+  {
+    "__EMPTY": "SOFITEL ",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "HOTELIERE ",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "-",
+    "__EMPTY_3": "-",
+    "__EMPTY_4": "TAHRI MOHAMED"
+  },
+  {
+    "__EMPTY": "EROCAN SARL",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "-",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "AV MY RCHID N 12 HAJ BRAHIM MARRAKECH",
+    "__EMPTY_3": "0606-89-78-02",
+    "__EMPTY_4": "MED TAHA MAHMOUDI"
+  },
+  {
+    "__EMPTY": "ALLO ZAIN ",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "MULTI SERVICE ",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "-",
+    "__EMPTY_3": "07-71-45-07-93",
+    "__EMPTY_4": "-"
+  },
+  {
+    "__EMPTY": "SAGEFAB",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "FABRICATION DE CHAISE ET BUREAU",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "-",
+    "__EMPTY_3": "-",
+    "__EMPTY_4": "EL MEHDI SABILI"
+  },
+  {
+    "__EMPTY": "SLTM",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "LOCOMOTIVES TRAVAUX MODERNES",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "-",
+    "__EMPTY_3": "0618-66-952",
+    "__EMPTY_4": "OUHDI MOHAMED"
+  },
+  {
+    "__EMPTY": "MINISTAIRE DE L EDUCATION ",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "EDUCATION ",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "-",
+    "__EMPTY_3": "0524-95-25/0662-38-38-38",
+    "__EMPTY_4": "OUSMAN KEITAN"
+  },
+  {
+    "__EMPTY": "SGGI",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "GESTION DE SERVICES INFORMATIQUE",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "SIDI GHANEM",
+    "__EMPTY_3": "0524-35-52-52",
+    "__EMPTY_4": "KABAJ ABDELHALIM"
+  },
+  {
+    "__EMPTY": "JCW",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "AGENCE INDUSTRIEL MARRAKECH",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "-",
+    "__EMPTY_3": "0658-67-27-74",
+    "__EMPTY_4": "LAAKILA SAID "
+  },
+  {
+    "__EMPTY": "JCW",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "AGENCE INDUSTRIEL MARRAKECH",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "-",
+    "__EMPTY_3": "0658-67-27-74",
+    "__EMPTY_4": "LAAKILA SAID "
+  },
+  {
+    "__EMPTY": "MENARA HOLDING ",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "PRODUCTION ET PRÉFABRICATION EN BÉTON ",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "KH 0500 ROUTE D AGHADIR BP 4141 HAY MASSIRA MARRAKECH",
+    "__EMPTY_3": "0524-49-99-00/0524-34-10-48",
+    "__EMPTY_4": "MUSTAPHA IRZIKI"
+  },
+  {
+    "__EMPTY": "SUJET RECHERCHE",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "SUJET RECHERCHE",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "-",
+    "__EMPTY_3": "-",
+    "__EMPTY_4": "-"
+  },
+  {
+    "__EMPTY": "NOTE PROJET -NOT FIND STAGE-",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "NOTE PROJET -NOTE FIND STAGE-",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "-",
+    "__EMPTY_3": "-",
+    "__EMPTY_4": "-"
+  },
+  {
+    "__EMPTY": "NOTE PROJET -NOT FIND STAGE-",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "NOTE PROJET -NOTE FIND STAGE-",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "-",
+    "__EMPTY_3": "-",
+    "__EMPTY_4": "-"
+  },
+  {
+    "__EMPTY": "MENARA PREFA",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "HOLDING",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "-",
+    "__EMPTY_3": "0524-49-99-15",
+    "__EMPTY_4": "-"
+  },
+  {
+    "__EMPTY": "ECOLE POLY TECHNIQUE SUD ",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "ECOLE",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "-",
+    "__EMPTY_3": "0524-37-22-36",
+    "__EMPTY_4": "ZAKARIA SAADOUNI"
+  },
+  {
+    "__EMPTY": "ATTIJARI ",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "BANQUE",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "-",
+    "__EMPTY_3": "-",
+    "__EMPTY_4": "-"
+  },
+  {
+    "__EMPTY": "NORSYS",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "INFORMATIQUE ",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "LOT N°38 MERCHICH DAOUDIATE MARRAKECH",
+    "__EMPTY_3": "0524-30-04-69",
+    "__EMPTY_4": "CHARFI EL MUSTAPHA "
+  },
+  {
+    "__EMPTY": "NORSYS",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "INFORMATIQUE ",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "LOT N°38 MERCHICH DAOUDIATE MARRAKECH",
+    "__EMPTY_3": "0524-30-04-69",
+    "__EMPTY_4": "CHARFI EL MUSTAPHA "
+  },
+  {
+    "__EMPTY": "SOME ",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "ARTISANA ",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "76 BV MANSOUR DAHBI GUELIZ",
+    "__EMPTY_3": "0524-43-33-72",
+    "__EMPTY_4": "NOEMIE LA NAOUR"
+  },
+  {
+    "__EMPTY": "EXSI TEAM",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "-",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "MASSIRA 3 ON RAB. COM N°17",
+    "__EMPTY_3": "-",
+    "__EMPTY_4": "ZEBRI YOUNESS"
+  },
+  {
+    "__EMPTY": "EYSI",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "DEVOLOPPEMENT DES SITE WEB APPS MOBILE ",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "MASSIRA OUN RABAN IM 17 MRK MARKETING DIGITAL",
+    "__EMPTY_3": "0657-93-82-95",
+    "__EMPTY_4": "ZEBRI YOUNESS"
+  },
+  {
+    "__EMPTY": "EYSI",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "DEVOLOPPEMENT DES SITE WEB APPS MOBILE ",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "MASSIRA OUN RABAN IM 17 MRK MARKETING DIGITAL",
+    "__EMPTY_3": "0657-93-82-95",
+    "__EMPTY_4": "ZEBRI YOUNESS"
+  },
+  {
+    "__EMPTY": "ONEE",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "BRADRE EAU ",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "-",
+    "__EMPTY_3": "-",
+    "__EMPTY_4": "-"
+  },
+  {
+    "__EMPTY": "DEVO SOFT ",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "SERVICE INFO ",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "-",
+    "__EMPTY_3": "-",
+    "__EMPTY_4": "-"
+  },
+  {
+    "__EMPTY": "DEVO SOFT ",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "SERVICE INFO ",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "-",
+    "__EMPTY_3": "-",
+    "__EMPTY_4": "-"
+  },
+  {
+    "__EMPTY": "FISCO GEST",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": 0,
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "N° 12 Massira 1 Marrakech",
+    "__EMPTY_3": "044 34 21 70 ",
+    "__EMPTY_4": "DISKOU MOHAMED "
+  },
+  {
+    "__EMPTY": "HELECONIA ",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "TRANSPORT ",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "-",
+    "__EMPTY_3": "0524-36-08-68",
+    "__EMPTY_4": "EL KADIRI AMINE "
+  },
+  {
+    "__EMPTY": "OUEST APPLICATION ",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "ELECTRICITÉ ",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "-",
+    "__EMPTY_3": "0524-34-17-84",
+    "__EMPTY_4": "NEZHA OUAOURAGH"
+  },
+  {
+    "__EMPTY": "STAGE",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "STAGE",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "-",
+    "__EMPTY_3": "-",
+    "__EMPTY_4": "-"
+  },
+  {
+    "__EMPTY": "OUEST APPLICATION ",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "SOCIÉTÉ DE SERVICE ",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "-",
+    "__EMPTY_3": "0524-34-17-84",
+    "__EMPTY_4": "ARRAHAL ESSAID "
+  },
+  {
+    "__EMPTY": "MUTECH",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "SOCIÉTÉ DE SERVICE ",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "-",
+    "__EMPTY_3": "-",
+    "__EMPTY_4": "-"
+  },
+  {
+    "__EMPTY": "FOUR SEASON",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "-",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "1 BOULEVARD DE MENARA ",
+    "__EMPTY_3": "0524-35-92-00",
+    "__EMPTY_4": "-"
+  },
+  {
+    "__EMPTY": "MENARA HOLDING",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "BTP IMMOBILIER TRANSPORT D AUTRES",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "ROUTE AGADIR 0.005 KM MARRAKECH",
+    "__EMPTY_3": "-",
+    "__EMPTY_4": "RSSIM AHMED TOURHFAR"
+  },
+  {
+    "__EMPTY": "ONDA/STTA",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "TELECOMMUNICATION ET INFORMATION ",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "-",
+    "__EMPTY_3": "0524-44-78-65/0524-44-79-10",
+    "__EMPTY_4": "ABDELHAKIM EHIJANI"
+  },
+  {
+    "__EMPTY": "PULSE DIGITAL",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "SOCIÉTÉ ",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "-",
+    "__EMPTY_3": "-",
+    "__EMPTY_4": "-"
+  },
+  {
+    "__EMPTY": "SOS EXPERT ",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "SOCIÉTÉ DE SERVICE",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "156 HAY ZITOUNE 3 ",
+    "__EMPTY_3": "0524-49-12-56",
+    "__EMPTY_4": "AHMED BEN 2 GUIC "
+  },
+  {
+    "__EMPTY": "SOS EXPERT ",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "SOCIÉTÉ DE SERVICE",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "156 HAY ZITOUNE 3 ",
+    "__EMPTY_3": "0524-49-12-56",
+    "__EMPTY_4": "AHMED BEN 2 GUIC "
+  },
+  {
+    "__EMPTY": "NOZA DIGITAL",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "SOCIETE DE SERVICE",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "ZERKTOUNI 1471 MHAMID ",
+    "__EMPTY_3": "0661-97-55-56",
+    "__EMPTY_4": "AMINE EL YOUSSEFI "
+  },
+  {
+    "__EMPTY": "VEGASYS ",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "SOCIÉTÉ DE SERVICE ",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "N°5 RÉSIDENCE IKRAM N° 188 LOTISSEMENT YASMINE ",
+    "__EMPTY_3": "-",
+    "__EMPTY_4": "ISMAIL WITAN"
+  },
+  {
+    "__EMPTY": "SHORECIN .UC (ebf)",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "SOCIÉTÉ DE SERVICE",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "-",
+    "__EMPTY_3": "-",
+    "__EMPTY_4": "PAUL BOUTRES "
+  },
+  {
+    "__EMPTY": "SHORECIN .UC (ebf)",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "SOCIÉTÉ DE SERVICE",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "-",
+    "__EMPTY_3": "-",
+    "__EMPTY_4": "PAUL BOUTRES "
+  },
+  {
+    "__EMPTY": "MCN GROUPE MARRAKECH",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "-",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "-",
+    "__EMPTY_3": "-",
+    "__EMPTY_4": "ZAKARIA MOLANINE "
+  },
+  {
+    "__EMPTY": "EASY SOLUTION ",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "BUSINESS INTELLIGENCE",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "-",
+    "__EMPTY_3": "0524-24-96-81",
+    "__EMPTY_4": "SOUFIANE IGUIDIR"
+  },
+  {
+    "__EMPTY": "23 DIGIT ",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "SOCIÉTÉ DE COMMUNICATION  ",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "R2SIDENCE AL MANAR N° 44 IZDIH MARRAKECH",
+    "__EMPTY_3": "-",
+    "__EMPTY_4": "RACHID MOHAD LARBI "
+  },
+  {
+    "__EMPTY": "AL OMRANE ",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "SOCIÉTÉ DE SERVICE ",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "PLACE 16 NOVEMBRE AVENUE MED V GUELIZ ",
+    "__EMPTY_3": "0524-44-62-18",
+    "__EMPTY_4": "AKHANA MOHAMED AMINE "
+  },
+  {
+    "__EMPTY": "MARELLI",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "QUALITE ",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "TANGER MED",
+    "__EMPTY_3": "0664-93-78-24",
+    "__EMPTY_4": "AMINE IRAOUI"
+  },
+  {
+    "__EMPTY": "NCRA Nouvelle Compagnie Royal Automobile",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "AUTOMOBILE ",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "-",
+    "__EMPTY_3": "0524-30-10-08",
+    "__EMPTY_4": "RACHID EL OUDGHIRI"
+  },
+  {
+    "__EMPTY": "NOUVELLE COMPAGNIE ROYAL AU AUTOMOBILES  (N.C.R.A)",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "AUTOMOBILES ",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "ROUTE DE CASA",
+    "__EMPTY_3": "0524-30-10-08",
+    "__EMPTY_4": "MUSTAPHA EL OUDGHIRI"
+  },
+  {
+    "__EMPTY": "PULSE DIGITALE ",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "INFORMATIQUE ",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "SIDI GHANEM -ZONE INDUSTRIELLE N°229",
+    "__EMPTY_3": "0524-33-52-63",
+    "__EMPTY_4": "ABDELHAFID EL KADIRI "
+  },
+  {
+    "__EMPTY": "PULSE DIGITALE ",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "INFORMATIQUE ",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "SIDI GHANEM -ZONE INDUSTRIELLE N°229",
+    "__EMPTY_3": "0524-33-52-63",
+    "__EMPTY_4": "ABDELHAFID EL KADIRI "
+  },
+  {
+    "__EMPTY": "NUXIA TECHNOLOGIES ",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "CONCEPTION ET DÉVELOPPEMENT ",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "-",
+    "__EMPTY_3": 668875879,
+    "__EMPTY_4": "HAMZA KANDAH"
+  },
+  {
+    "__EMPTY": "SISPAY ",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "SERVICE EN INFORMATIQUE",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "IMMEUBLE ESPACE JET BUSINESS CLASS",
+    "__EMPTY_3": 600046144,
+    "__EMPTY_4": "-"
+  },
+  {
+    "__EMPTY": "LEON SOFT ",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "SOCIÉTÉ DE SERVICE ",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "2 EME ÉTAGE N° 4 IMM DAKALA GR 2221",
+    "__EMPTY_3": "-",
+    "__EMPTY_4": "-"
+  },
+  {
+    "__EMPTY": "WEBPICK",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "SOCIÉTÉ DE SERVICE",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "SIDI GHANEM N°61",
+    "__EMPTY_3": 708009001,
+    "__EMPTY_4": "ANAS GHOURI"
+  },
+  {
+    "__EMPTY": "WEBPICK",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "SOCIÉTÉ DE SERVICE",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "SIDI GHANEM N°61",
+    "__EMPTY_3": 708009001,
+    "__EMPTY_4": "ANAS GHOURI"
+  },
+  {
+    "__EMPTY": "PULSE DIGITALE ",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "DERN ARCHITECTURE LOGICIELLE",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "-",
+    "__EMPTY_3": "0524-43-43-29",
+    "__EMPTY_4": "-"
+  },
+  {
+    "__EMPTY": "STAGE ",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": "STAGE",
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "-",
+    "__EMPTY_3": "-",
+    "__EMPTY_4": "-"
+  },
+  {
+    "__EMPTY": "DEV IT CONSULTING ",
+    "LISTING ENTREPRISES RECEPTIVES / MARRAKECH": 0,
+    "__EMPTY_1": "Marrakech",
+    "__EMPTY_2": "MAGAZIN N° 930 MASSIRA 2 MARRAKECH",
+    "__EMPTY_3": "0670-23-50-39",
+    "__EMPTY_4": "-"
+  }
+]
